@@ -82,5 +82,17 @@
   },
   "about-me-icon.svg": {
     "mime": "image/svg+xml"
+  },
+  "about-me-2.jpg": {
+    "mime": "image/jpeg"
+  },
+  "about-me-3.jpg": {
+    "mime": "image/jpeg"
+  },
+  "icons8-paper-bag-64.png": {
+    "mime": "image/png"
+  },
+  "icons8-shopping-bag-50.png": {
+    "mime": "image/png"
   }
 }

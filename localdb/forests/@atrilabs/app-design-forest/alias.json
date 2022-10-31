@@ -1,12 +1,12 @@
 {
   "Div": 224,
   "Flex": 147,
-  "TextBox": 197,
+  "TextBox": 200,
   "Button": 2,
   "Link": 9,
   "Dropdown": 1,
   "Carousel": 1,
-  "Image": 59,
+  "Image": 60,
   "Icon": 2,
   "Input": 2
 }

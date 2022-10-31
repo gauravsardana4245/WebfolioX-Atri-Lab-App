@@ -88,10 +88,10 @@ const desktopModeProps = {
     "flex57687": {
       "callbacks": {}
     },
-    "flex-inner-card_1": {
+    "flex78838": {
       "callbacks": {}
     },
-    "card-div": {
+    "div62275": {
       "callbacks": {}
     },
     "Flex15": {
@@ -277,10 +277,10 @@ const desktopModeProps = {
     "Flex55": {
       "callbacks": {}
     },
-    "Div93": {
+    "Div94": {
       "callbacks": {}
     },
-    "Div94": {
+    "Div93": {
       "callbacks": {}
     },
     "div36767": {
@@ -499,9 +499,10 @@ const desktopModeProps = {
     "Flex147": {
       "callbacks": {}
     },
-    "TextBox1": {
+    "Image60": {
       "custom": {
-        "text": "Webfolio X"
+        "alt": "No preview available",
+        "src": "/app-assets/Title.svg"
       },
       "callbacks": {
         "onClick": [
@@ -566,7 +567,7 @@ const desktopModeProps = {
     "Image1": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/cart-icon.png"
+        "src": "/app-assets/icons8-shopping-bag-50.png"
       },
       "callbacks": {
         "onClick": [
@@ -1138,9 +1139,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox72": {
+    "Image16": {
       "custom": {
-        "text": "About me"
+        "alt": "No preview available",
+        "src": "/app-assets/arrow_icon_1.png"
       },
       "callbacks": {
         "onClick": [
@@ -1150,10 +1152,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image16": {
+    "TextBox72": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/arrow_icon_1.png"
+        "text": "About me"
       },
       "callbacks": {
         "onClick": [
@@ -2014,7 +2015,43 @@ const desktopModeProps = {
     },
     "TextBox197": {
       "custom": {
-        "text": "Copyright © Webfolio X | Designed by BRIX Templates - Powered by Webflow"
+        "text": "Copyright © Webfolio X | Designed by"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox198": {
+      "custom": {
+        "text": " BRIX Templates"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox199": {
+      "custom": {
+        "text": "- Powered by "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox200": {
+      "custom": {
+        "text": "Webflow"
       },
       "callbacks": {
         "onClick": [
